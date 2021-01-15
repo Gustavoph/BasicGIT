@@ -29,7 +29,6 @@ https://git-scm.com/download
 - [x] You need to return a file to a specific point in the timeline.
 
 - [x] You need to recover something deleted.
----------------------------------------------------------------
 
 ## COMMANDS
 
