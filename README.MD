@@ -30,12 +30,12 @@ https://git-scm.com/download
 
 - [x] Você precisa recuperar algo deletado.
 
-- `git init` //para iniciar um repositório
+- `git init` // para iniciar um repositório
 - `git config --global user.email email@exemplo`
 - `git config --global user.name nomeExemplo`
 - `git init` // inicia a linha do tempo
 - `git add` // adiciona ou atualiza mudanças para irem para a linha do tempo
-- `git add.` // Adiciona todas as mudanças ao mesmo tempo
+- `git add.` // adiciona todas as mudanças ao mesmo tempo
 - `git commit` // adiciona um ponto na linha do tempo
 - `git log` // visualiza os pontos na linha do tempo / commit
 - `git status` // informa o estado das alterações do nosso projeto
