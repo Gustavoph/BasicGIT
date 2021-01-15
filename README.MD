@@ -29,25 +29,25 @@ https://git-scm.com/download
 - [x] You need to return a file to a specific point in the timeline.
 
 - [x] You need to recover something deleted.
-===================================================================
+---------------------------------------------------------------
 
 ## COMMANDS
 
 - `git init` // start a repository
 - `git config --global user.email email@exemplo`
 - `git config --global user.name nomeExemplo`
-- `git init` // start a time line
+- `git init` // start a timeline
 - `git add` // add or update changes to go to the timeline
 - `git add.` // add all changes at the same time
-- `git commit` // adiciona um ponto na linha do tempo
-- `git log` // visualiza os pontos na linha do tempo / commit
-- `git status` // informa o estado das alterações do nosso projeto
-- `git show` // apresenta determinado ponto na história
-- `git branch` // gerenciar novas linhas do tempo
-- `git checkout` // manipula as linhas do tempo
-- `git merge` // unir linhas do tempo
-- `git remote add origin` // para lincar o git com o github
-- `git push -u origin master` // criar o push master
-- `git push` // envia alterações locais para o repositório remoto
-- `git clone` // clonar um projeto / repositório
-- `git pull` // puxa do repositório remoto
+- `git commit` // adds a point to the timeline
+- `git log` // view points on the timeline / commit
+- `git status` // informs the status of changes to our project
+- `git show` // presents a certain point in history
+- `git branch` // manage new timelines
+- `git checkout` // manipulates timelines
+- `git merge` // merge timelines
+- `git remote add origin` // to link git with github
+- `git push -u origin master` // create the push master
+- `git push` // send local changes to the remote repository
+- `git clone` // clone a project / repository
+- `git pull` // pull from remote repository
