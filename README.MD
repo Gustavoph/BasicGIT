@@ -2,11 +2,11 @@
 
 Guia prático para iniciante
 
-### Instalação
+## Instalação
 
 https://git-scm.com/download
 
-# SCENES
+## SCENES
 
 - [x] Você deseja criar pontos na história da produção do seu projeto
 
@@ -18,7 +18,7 @@ https://git-scm.com/download
 
 - [x] Você quer deletar a branch da nova funcionalidade, depois de aplicar em seu projeto.
 
-- [v] Você quer colocar seu projeto na nuvem.
+- [x] Você quer colocar seu projeto na nuvem.
 
 - [x] Você vai pegar um projeto já iniciado, para trabalhar com o time
 
@@ -29,24 +29,6 @@ https://git-scm.com/download
 - [x] Você precisa voltar um arquivo para um determinado momento da linha do tempo.
 
 - [x] Você precisa recuperar algo deletado.
-
-
-- `git add server.js` // para adicionar algo no histórico
-
-- `git commit -m "mensagem"` // envia os arquivos adicionados ao repositórios
-git status
-git log -> histórico de mudanças
-git show 0456dbd69aa8ad8c7c29bc8838832a0a9c9b834b -> mostra mudança específica
-
-git branch -> mostra as linhas do tempo
-git branch nome/branch -> cria uma branch
-git checkout nome/branch -> muda a sua branch
-git marge nome/branch -> junta as branch na master
-git branch -d nome/branch -> deleta a branch
-
-git remote add origin https://github.com/Gustavoph/BasicGIT.git
-git push -u origin master
-git push
 
 - `git init` //para iniciar um repositório
 - `git config --global user.email email@exemplo`
@@ -61,6 +43,8 @@ git push
 - `git branch` // gerenciar novas linhas do tempo
 - `git checkout` // manipula as linhas do tempo
 - `git merge` // unir linhas do tempo
+- `git remote add origin` // para lincar o git com o github
+- `git push -u origin master` // criar o push master
 - `git push` // envia alterações locais para o repositório remoto
 - `git clone` // clonar um projeto / repositório
 - `git pull` // puxa do repositório remoto
