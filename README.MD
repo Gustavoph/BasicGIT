@@ -15,8 +15,6 @@ https://git-scm.com/download
 - [x] Você adiciona as novas funcionalidades ao seu projeto em produção
 - [x] Você quer deletar a branch da nova funcionalidade, depois de aplicar em seu projeto
 
-
-
 - `git add server.js` // para adicionar algo no histórico
 
 - `git commit -m "mensagem"` // envia os arquivos adicionados ao repositórios
