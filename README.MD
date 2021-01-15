@@ -2,7 +2,7 @@
 
 Guia prático para iniciante
 
-## Instalação
+## INSTALAÇÃO
 
 https://git-scm.com/download
 
