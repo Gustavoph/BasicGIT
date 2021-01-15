@@ -1,41 +1,44 @@
 # GIT E GITHUB
 
-Guia prático para iniciante
+Practical Guide for Beginners
 
-## INSTALAÇÃO
+## INSTALLATION
 
 https://git-scm.com/download
 
 ## SCENES
 
-- [x] Você deseja criar pontos na história da produção do seu projeto
+- [x] You want to create points in your project's production history.
 
-- [x] Você deseja verificar mudanças feitas no seu projeto
+- [x] You want to check changes made to your project.
 
-- [x] Você começa uma nova funcionalidade no seu projeto, sem estragar o que já foi feito.
+- [x] You start a new feature in your project, without ruining what has already been done.
 
-- [x] Você adiciona as novas funcionalidades ao seu projeto em produção
+- [x] You add new features to your production project.
 
-- [x] Você quer deletar a branch da nova funcionalidade, depois de aplicar em seu projeto.
+- [x] You want to delete the branch of the new functionality, after applying it to your project.
 
-- [x] Você quer colocar seu projeto na nuvem.
+- [x] You want to put your project in the cloud.
 
-- [x] Você vai pegar um projeto já iniciado, para trabalhar com o time
+- [x] You will take a project already started, to work with the team.
 
-- [x] Você precisa resolver um conflito.
+- [x] You need to resolve a conflict.
 
-- [x] Antes de enviar a resolução, precisamos atualizar o projeto local.
+- [x] Before sending the resolution, we need to update the local project.
 
-- [x] Você precisa voltar um arquivo para um determinado momento da linha do tempo.
+- [x] You need to return a file to a specific point in the timeline.
 
-- [x] Você precisa recuperar algo deletado.
+- [x] You need to recover something deleted.
+===================================================================
 
-- `git init` // para iniciar um repositório
+## COMMANDS
+
+- `git init` // start a repository
 - `git config --global user.email email@exemplo`
 - `git config --global user.name nomeExemplo`
-- `git init` // inicia a linha do tempo
-- `git add` // adiciona ou atualiza mudanças para irem para a linha do tempo
-- `git add.` // adiciona todas as mudanças ao mesmo tempo
+- `git init` // start a time line
+- `git add` // add or update changes to go to the timeline
+- `git add.` // add all changes at the same time
 - `git commit` // adiciona um ponto na linha do tempo
 - `git log` // visualiza os pontos na linha do tempo / commit
 - `git status` // informa o estado das alterações do nosso projeto
