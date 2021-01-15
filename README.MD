@@ -15,9 +15,7 @@ https://git-scm.com/download
 - [x] Você adiciona as novas funcionalidades ao seu projeto em produção
 - [x] Você quer deletar a branch da nova funcionalidade, depois de aplicar em seu projeto
 
-git init -> para iniciar um repositório \n
-git config --global user.email email@exemplo
-git config --global user.name nomeExemplo
+
 
 - `git add server.js` // para adicionar algo no histórico
 
@@ -36,7 +34,9 @@ git remote add origin https://github.com/Gustavoph/BasicGIT.git
 git push -u origin master
 git push
 
-
+- `git init` //para iniciar um repositório
+- `git config --global user.email email@exemplo`
+- `git config --global user.name nomeExemplo`
 - `git init` // inicia a linha do tempo
 - `git add` // adiciona ou atualiza mudanças para irem para a linha do tempo
 - `git add.` // Adiciona todas as mudanças ao mesmo tempo
